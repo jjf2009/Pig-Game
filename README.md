@@ -36,11 +36,4 @@ A fun, two-player dice game where players take turns rolling a die, accumulating
 
 2. Open the folder and run the game by opening the index.html file in your browser.
 
-## Game Rules
 
-   1. Two players take turns to roll the dice.
-   2. On each player's turn, they can either:
-        - Roll the dice: Adds the dice value to the player's current round score unless they roll a 1, which causes the round score to reset, and their turn ends.
-        - Hold: Adds the current round score to the player's total score and ends their turn.
-   3. If a player reaches 30 or more points, they win the game.
-   4. The New Game button resets all scores and starts a fresh game.
